@@ -37,6 +37,8 @@ Research Papers and Articles on Threshold Cryptography
 
 - [2001, FOCS] [Ran Canetti] **[Universally composable security: A new paradigm for cryptographic protocols](https://eprint.iacr.org/2000/067.pdf)**
 
+-  [1999] [Silvio Micali, Michael Rabin, Salil Vadhan] **[Verifiable random functions](https://dash.harvard.edu/bitstream/handle/1/5028196/vadhan_verifrandomfunction.pdf)**
+
 
 ---
 ### RSA Based
